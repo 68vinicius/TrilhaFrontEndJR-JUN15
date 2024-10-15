@@ -1,7 +1,7 @@
 ![Código Certo Coders](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
 
 # 📚 Trilha Inicial Front-End Jr
-Este projeto tem como objetivo criar uma página web onde os candidatos podem se apresentar, compartilhar seus gostos pessoais e explicar por que desejam fazer parte da comunidade Codigo Certo Coders e participar de projetos voluntários.
+Este projeto tem como objetivo criar uma página web onde os candidatos podem se apresentar, compartilhar seus gostos pessoais e explicar por que desejam fazer parte da comunidade **Codigo Certo Coders** e participar de projetos voluntários.
 
 ## Estrutura da Página
 - **Foto:** Incluir uma foto pessoal.
@@ -18,7 +18,7 @@ Este projeto tem como objetivo criar uma página web onde os candidatos podem se
 - **Uso de Imagens:** Incluir pelo menos uma imagem (foto pessoal).
 
 Primordial: Utilizar as cores da paleta da **Codigo Certo Coders:**
-![Código Certo Coders](https://github.com/68vinicius/trilhafrontend/assets/167829379/2a11dc98-4619-49bc-b7c2-c08142e7ce21)
+![Codigo Certo Coders Cores](https://github.com/codigocerto/TrilhaFrontEndJR-JUN15/assets/170693068/5ced1a97-b2c6-4f54-836c-7b3e115f879f)
 - **#000000** (preto)
 - **#e53939** (vermelho)
 - **#ffffff** (branco)
@@ -34,12 +34,11 @@ Primordial: Utilizar as cores da paleta da **Codigo Certo Coders:**
 - **CSS bem estruturado.**
 - **Código limpo e bem organizado.**
 
-### Dicas: 🚀
+### Dicas para Abordar o Projeto 🌟
 - **Crie um Fork desse Repositório.**
-- **Atenção aos Detalhes Visuais.**
-- **Boas Práticas de Desenvolvimento.**
-- **Versionamento com Git.**
-- **Cumprimento dos Requisitos.**
+- **Criar do Zero:** É fundamental que o projeto seja desenvolvido completamente do zero, demonstrando suas habilidades e criatividade desde o início.
+- **Atenção aos Detalhes Visuais:** Utilize a paleta de cores e elementos visuais de forma coesa para uma experiência impactante.
+- **Versionamento com Git:** Faça uso eficiente do Git para controlar suas alterações e manter um histórico claro do desenvolvimento.
 
 ### Critérios de Avaliação: 📝
 - **Funcionalidade:** A aplicação deve atender à estrutura da página e aos requisitos definidos.
@@ -53,29 +52,22 @@ Primordial: Utilizar as cores da paleta da **Codigo Certo Coders:**
 - Entregas padrão ou cópias de outros projetos. Buscamos originalidade e autenticidade em cada contribuição.
 
 ### Prazo ⏳
-Os candidatos devem completar a trilha em no máximo em 2 semanas, começando a contar a partir de 15/06.
-
-A conclusão da trilha inicial é um requisito obrigatório para avançar para a trilha 
-final. Caso a trilha inicial não seja concluída dentro do prazo estabelecido, o 
-candidato estará impossibilitado de prosseguir para trilha final.
-
-**Data máxima para entrega: 29/06**
+A data máxima para entrega das trilhas foi removida, permitindo que as pessoas entreguem conforme sua disponibilidade. No entanto, ainda é necessário concluir a trilha com sucesso para ser inserido em uma equipe.
 
 ### Instruções de Entrega: 📬
-Após finalizar o projeto, publique-o em uma URL pública (por exemplo, Vercel, Netlify, GitHub Pages, etc.) e mande no [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):  
-Se houver alguma observação adicional, por favor, inclua no corpo do pull request.
+Após finalizar o projeto, publique-o em uma URL pública (por exemplo, Vercel, Netlify, GitHub Pages, etc.) e preencha o [Formulário](https://forms.gle/Nmyjwna23VW9rM7m9):  
 
 ---
 
-### Inovação e Criatividade
-Achou esse projeto inicial simples? Então entregue mais! procuramos pessoas inovadoras que criem e inovem. Somos totalmente abertos à liberdade criativa!
+### Desafio da Inovação 🚀
+Achou esse projeto inicial simples? Eleve ainda mais! Estamos em busca de mentes inovadoras que não apenas criem, mas que também desafiem os padrões. Como você pode transformar essa estrutura inicial em algo verdadeiramente extraordinário? Demonstre o poder da sua criatividade e o impacto das suas ideias inovadoras!
 
 ---
 
 🔗 **Mantenha-se Conectado:**
-- [Discord](https://discord.gg/wzA9FGZHNv)
+- [Discord](discord.gg/y3GHwPvsMK)
 - [Website](http://www.codigocertocoders.com.br/)
-- [LinkedIn](https://www.linkedin.com/company/codigocerto/)
+- [LinkedIn](https://www.linkedin.com/company/codigocertocoders/)
   
 🌐 **Contato:**
 - Email: codigocertocoders@gmail.com
